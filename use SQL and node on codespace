@@ -1,0 +1,3 @@
+links to connect docker on github codespace to use node and postgreSQL
+https://stackoverflow.com/questions/64704330/how-to-connect-to-postgres-from-github-codespaces
+https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/setting-up-your-nodejs-project-for-codespaces
